@@ -1,0 +1,4 @@
+fredapi
+matplotlib
+pandas
+python-dotenv
