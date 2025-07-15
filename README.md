@@ -1,2 +1,2 @@
-# 30-ai-projects-portfolio
+# AI-projects-portfolio
 My AI portfolio
